@@ -1,4 +1,4 @@
-package com.example.daysapp.model
+package com.example.motivationapp.model
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes

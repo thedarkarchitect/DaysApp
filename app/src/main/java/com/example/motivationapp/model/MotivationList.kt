@@ -1,7 +1,6 @@
-package com.example.daysapp.model
+package com.example.motivationapp.model
 
-import androidx.compose.runtime.Immutable
-import com.example.daysapp.R
+import com.example.motivationapp.R
 
 val motivations = listOf<Motivation>(
     Motivation(1, R.string.title1, R.drawable.pic1, R.string.description1 ),
@@ -34,8 +33,4 @@ val motivations = listOf<Motivation>(
     Motivation(28, R.string.title28, R.drawable.pic28, R.string.description28 ),
     Motivation(29, R.string.title29, R.drawable.pic29, R.string.description29 ),
     Motivation(30, R.string.title30, R.drawable.pic30, R.string.description30 ),
-
-
-
-
 )
